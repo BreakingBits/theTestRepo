@@ -1,10 +1,14 @@
-halló heimur!
+...halló heimur!
 
 hvað segiru gott?
 
 ég er fínn sjálfur
 
 Þegiðu ingvar, það finnst engum þetta fyndið.
+<<<<<<< HEAD
 
 
 Óli feiti.
+=======
+.
+>>>>>>> a7c71c4b9a9b3b5f34819cd66225b0e080485ba4
